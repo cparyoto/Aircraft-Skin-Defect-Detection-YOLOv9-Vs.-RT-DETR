@@ -1,0 +1,7 @@
+train: ../../scratch/datasets/train/images
+val: ../../scratch/datasets/test/images
+
+
+nc: 3
+names: ['Missing-Rivet', 'Rust', 'Scartch']
+
