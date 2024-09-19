@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Kurniawan"
+  given-names: "Christian"
+  orcid: "https://orcid.org/0000-0002-3178-4042"
+title: "Aircraft-Skin-Defect-Detection-YOLOv9-Vs.-RT-DETR"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2024-09-19
+url: "https://github.com/cparyoto/Aircraft-Skin-Defect-Detection-YOLOv9-Vs.-RT-DETR"
