@@ -1,5 +1,0 @@
-train: ../../../../scratch/datasets_2/tuning_data/dataset_1/train/images 
-val: ../../../../scratch/datasets_2/tuning_data/dataset_1/valid/images 
-
-nc: 5 
-names: ['crack', 'dent', 'missing-head','paint-off', 'scratch']
